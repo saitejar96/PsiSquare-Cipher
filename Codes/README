@@ -1,0 +1,7 @@
+Compile and run encryption.c .
+It will encrypt text in alice.txt .
+The encrypted message is stored in enc_alice.txt . 
+Also the 64bit subkeys generated for each round are present in keys.txt.
+Compile and run decryption.c .
+It will decrypt cipher in enc_alice.txt .
+The decrypted message is stored in dec_alice.txt . 
